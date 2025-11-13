@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 style="font-size: 36px; font-weight: 600; margin-bottom: 10px;">Ibtisam</h1>
 
-<!--
-**Sam-pong/Sam-pong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science Engineering student with experience in full-stack web development, native applications, and Android development. I focus on writing reliable, maintainable, and efficient software across multiple platforms and languages.
 
-Here are some ideas to get you started:
+<h3 style="font-size: 26px; font-weight: 600;">Technical Skills</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Languages
+C#, Dart, VB.NET, Python, JavaScript (basic), Rust (basic), HTML, CSS
+
+Development Areas:
+Web applications (frontend and backend)
+Native applications
+Android development
+
+Tools & Environments:
+Visual Studio 2022, Visual Studio Code, Zen Editor
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-pong&layout=compact)
+
+
+<!-- <span style="font-size: 22px; font-weight: 600;">Selected Work</span>
+
+(Add or remove projects as needed.)
+
+Project Name – One-sentence description of the purpose and scope.
+
+Project Name – Brief explanation of what you built and technologies used.
+
+Project Name – Short summary, implementation details, or problem solved.
+
 -->
+<h3 style="font-size: 22px; font-weight: 600;">Interests & Focus Areas</h3>
+
+I am interested in backend engineering, software architecture, and building efficient tools that solve practical problems. I also work on personal projects to expand my skills across different languages and frameworks.
+
+<h3 style="font-size: 22px; font-weight: 600;">Contact</h3>
+
+Email: ibtisamahmed02@gmail.com
+Additional platforms (Discord, Instagram, Twitter) available on request.
