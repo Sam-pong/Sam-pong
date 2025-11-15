@@ -17,7 +17,7 @@ Android development
 
 <h3> Tools & Environments: </h3>
 
-Visual Studio 2022, Visual Studio Code, Zen Editor
+Visual Studio 2026, Visual Studio Code, Zen Editor
 
 
 <!-- <span style="font-size: 22px; font-weight: 600;">Selected Work</span>
